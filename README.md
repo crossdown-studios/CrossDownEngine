@@ -3,3 +3,6 @@
 
 A docs when be created!
 This project will maked with partners (SkorpCorp™ and Scarloot™)
+
+
+Copyright | CrossdownEngine™
